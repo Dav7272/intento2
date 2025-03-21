@@ -1,0 +1,5 @@
+mi_ia_web/
+│── index.html   # Página principal
+│── style.css    # Estilos
+│── script.js    # Código JavaScript
+│── README.md    # Información opcional
